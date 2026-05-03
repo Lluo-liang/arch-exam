@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.RRduUuAx.js";const m=JSON.parse('{"title":"模拟冲刺","description":"","frontmatter":{"title":"模拟冲刺"},"headers":[],"relativePath":"模拟冲刺.md","filePath":"模拟冲刺.md"}'),r={name:"模拟冲刺.md"};function o(s,c,n,_,i,p){return t(),a("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

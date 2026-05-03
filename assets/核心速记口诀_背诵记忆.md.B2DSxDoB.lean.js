@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.RRduUuAx.js";const m=JSON.parse('{"title":"背诵记忆","description":"","frontmatter":{"title":"背诵记忆"},"headers":[],"relativePath":"核心速记口诀/背诵记忆.md","filePath":"核心速记口诀/背诵记忆.md"}'),r={name:"核心速记口诀/背诵记忆.md"};function o(s,c,n,_,i,p){return t(),a("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
