@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a}from"./chunks/framework.qp_iHMOg.js";const l=JSON.parse('{"title":"背诵记忆","description":"","frontmatter":{"title":"背诵记忆"},"headers":[],"relativePath":"核心速记口诀/背诵记忆.md","filePath":"核心速记口诀/背诵记忆.md","lastUpdated":null}'),r={name:"核心速记口诀/背诵记忆.md"};function o(s,n,c,_,d,p){return e(),a("div")}const m=t(r,[["render",o]]);export{l as __pageData,m as default};
