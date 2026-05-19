@@ -1,1 +1,0 @@
-import{c as t,Q as e,j as a}from"./chunks/framework.rWdQudnF.js";const l=JSON.parse('{"title":"模拟冲刺","description":"","frontmatter":{"title":"模拟冲刺"},"headers":[],"relativePath":"模拟冲刺.md","filePath":"模拟冲刺.md","lastUpdated":null}'),r={name:"模拟冲刺.md"};function s(n,o,c,_,d,p){return e(),a("div")}const m=t(r,[["render",s]]);export{l as __pageData,m as default};
